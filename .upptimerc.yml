@@ -7,8 +7,13 @@ sites:
     url: https://www.google.com
   - name: COA
     url: https://www.coa.nl   
-
-
+  - name: Kamp Woudenberg
+    url: https://www.kampwoudenberg.nl  
+  - name: The Good Hairclub
+    url: https://thegoodhairclub.nl 
+  - name: PKN Ontmoetingskerk Wilnis
+    url: https://pknontmoetingskerkwilnis.nl
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain.
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
