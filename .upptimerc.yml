@@ -6,7 +6,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: COA
-    url: https://www.coa.nl   
+    url: https://www.coa.nl/nl
   - name: Kamp Woudenberg
     url: https://www.kampwoudenberg.nl  
   - name: The Good Hairclub
