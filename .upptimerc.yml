@@ -13,8 +13,8 @@ sites:
     url: https://thegoodhairclub.nl 
   - name: PKN Ontmoetingskerk Wilnis
     url: https://pknontmoetingskerkwilnis.nl
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co  
+  - name: MyCOA
+    url: https://www.mycoa.nl/nl  
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain.
