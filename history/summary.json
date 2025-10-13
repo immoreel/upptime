@@ -22,9 +22,9 @@
     "url": "https://www.coa.nl/nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.coa.nl.ico",
     "slug": "coa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1559,
     "timeMonth": 1481,
     "timeYear": 1481,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-13": 0
+    }
   },
   {
     "name": "Kamp Woudenberg",
