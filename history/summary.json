@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 88,
-    "timeDay": 82,
-    "timeWeek": 97,
+    "timeDay": 81,
+    "timeWeek": 93,
     "timeMonth": 88,
     "timeYear": 88,
     "dailyMinutesDown": {}
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.coa.nl.ico",
     "slug": "coa",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1491,
-    "timeDay": 1746,
-    "timeWeek": 1576,
+    "timeDay": 1614,
+    "timeWeek": 1546,
     "timeMonth": 1491,
     "timeYear": 1491,
-    "dailyMinutesDown": {
-      "2025-10-13": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Kamp Woudenberg",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 855,
-    "timeDay": 944,
-    "timeWeek": 905,
-    "timeMonth": 855,
-    "timeYear": 855,
+    "time": 890,
+    "timeDay": 1515,
+    "timeWeek": 972,
+    "timeMonth": 890,
+    "timeYear": 890,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1251,
-    "timeDay": 1332,
-    "timeWeek": 1295,
-    "timeMonth": 1251,
-    "timeYear": 1251,
+    "time": 1253,
+    "timeDay": 1287,
+    "timeWeek": 1290,
+    "timeMonth": 1253,
+    "timeYear": 1253,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 945,
-    "timeDay": 765,
-    "timeWeek": 1217,
-    "timeMonth": 945,
-    "timeYear": 945,
+    "time": 984,
+    "timeDay": 1674,
+    "timeWeek": 1234,
+    "timeMonth": 984,
+    "timeYear": 984,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 781,
-    "timeDay": 749,
-    "timeWeek": 781,
-    "timeMonth": 781,
-    "timeYear": 781,
+    "time": 741,
+    "timeDay": 506,
+    "timeWeek": 741,
+    "timeMonth": 741,
+    "timeYear": 741,
     "dailyMinutesDown": {}
   }
 ]
