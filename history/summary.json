@@ -78,19 +78,19 @@
     "url": "https://pknontmoetingskerkwilnis.nl",
     "icon": "https://icons.duckduckgo.com/ip3/pknontmoetingskerkwilnis.nl.ico",
     "slug": "pkn-ontmoetingskerk-wilnis",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1024,
-    "timeDay": 1041,
-    "timeWeek": 1013,
-    "timeMonth": 1024,
-    "timeYear": 1024,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1023,
+    "timeDay": 1014,
+    "timeWeek": 1010,
+    "timeMonth": 1023,
+    "timeYear": 1023,
     "dailyMinutesDown": {
-      "2025-10-27": 0
+      "2025-10-27": 11
     }
   },
   {
