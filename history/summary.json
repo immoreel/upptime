@@ -74,9 +74,9 @@
     "url": "https://www.kampwoudenberg.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.kampwoudenberg.nl.ico",
     "slug": "kamp-woudenberg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -85,16 +85,18 @@
     "timeWeek": 950,
     "timeMonth": 861,
     "timeYear": 882,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-17": 0
+    }
   },
   {
     "name": "The Good Hairclub",
     "url": "https://thegoodhairclub.nl",
     "icon": "https://icons.duckduckgo.com/ip3/thegoodhairclub.nl.ico",
     "slug": "the-good-hairclub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -103,7 +105,9 @@
     "timeWeek": 1555,
     "timeMonth": 1432,
     "timeYear": 1350,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-17": 0
+    }
   },
   {
     "name": "PKN Ontmoetingskerk Wilnis",
