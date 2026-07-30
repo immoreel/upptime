@@ -32,17 +32,17 @@
     "url": "https://www.coa.nl/nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.coa.nl.ico",
     "slug": "coa",
-    "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "95.32%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.46%",
-    "time": 1459,
-    "timeDay": 1333,
-    "timeWeek": 1603,
-    "timeMonth": 1419,
-    "timeYear": 1459,
+    "status": "up",
+    "uptime": "99.35%",
+    "uptimeDay": "63.24%",
+    "uptimeWeek": "94.75%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "99.35%",
+    "time": 1460,
+    "timeDay": 1529,
+    "timeWeek": 1618,
+    "timeMonth": 1429,
+    "timeYear": 1460,
     "dailyMinutesDown": {
       "2025-10-17": 64,
       "2025-10-30": 21,
@@ -80,7 +80,7 @@
       "2026-06-04": 131,
       "2026-06-23": 153,
       "2026-07-10": 117,
-      "2026-07-30": 67
+      "2026-07-30": 529
     }
   },
   {
