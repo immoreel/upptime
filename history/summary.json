@@ -152,22 +152,23 @@
     "url": "https://www.mycoa.nl/nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.mycoa.nl.ico",
     "slug": "my-coa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.26%",
     "time": 596,
-    "timeDay": 514,
-    "timeWeek": 563,
-    "timeMonth": 527,
+    "timeDay": 486,
+    "timeWeek": 550,
+    "timeMonth": 525,
     "timeYear": 596,
     "dailyMinutesDown": {
       "2025-11-18": 89,
       "2026-06-22": 462,
       "2026-06-21": 1440,
-      "2026-06-20": 1154
+      "2026-06-20": 1154,
+      "2026-07-30": 0
     }
   }
 ]
